@@ -1,0 +1,23 @@
+{
+  "name": "node_tr1",
+  "version": "1.0.0",
+  "description": "notorious wag — отъявленный шут\r It's no good brooding about your troubles. — Вредно всё время думать о своих проблемах\r long rows of contiguous houses — длинные улицы примыкающих друг к другу домов\r crouching like a cat — сжавшийся, как кот (прижавшийся, припавший к земле)\r sumptuous роскошный, дорогой\r scrawny ['skrɔːnɪ] ; ; костлявый, тощий, сухопарый Syn: thin 1.\r borough ['bʌrə]) городок, небольшой город",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duxard/node_tr1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duxard/node_tr1/issues"
+  },
+  "homepage": "https://github.com/duxard/node_tr1#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
